@@ -1,0 +1,17 @@
+{
+  "About": {
+    "title": "About",
+    "lastUpdated": "This example was updated {lastUpdatedRelative} ({lastUpdated, date, short})."
+  },
+  "Home": {
+    "title": "Home",
+    "description": "Hello World!"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Switch locale to {locale}",
+    "currentLocale": "Current locale is {locale}"
+  },
+  "PageLayout": {
+    "pageTitle": "next-intl"
+  }
+}
